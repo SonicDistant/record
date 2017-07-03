@@ -1,2 +1,7 @@
 记录一下安装各类IDE时遇到的问题与解决方法
 
+1.XAMPP Control Panel V3.2.2 启动Apache时出现Error：
+                httpd.exe-系统错误
+  无法启动此程序，因为计算机中丢失api-ms-win-crt-runtime-|1-1-0.dll。尝试重新安装该程序已解决此问题。
+  
+  解决方法：还在查找ing（欢迎大神们给予解答）
