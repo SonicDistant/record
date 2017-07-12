@@ -5,4 +5,4 @@
   无法启动此程序，因为计算机中丢失api-ms-win-crt-runtime-|1-1-0.dll。尝试重新安装该程序已解决此问题。
   
   解决方法：下载安装Visual C++ Redistributable for Visual Studio 2015（下载链接：https://www.microsoft.com/zh-cn/download/details.aspx?id=48145）
-           具体参见csdn：http://blog.csdn.net/huqiao1206/article/details/50768481
+           具体参见csdn博客：http://blog.csdn.net/huqiao1206/article/details/50768481
